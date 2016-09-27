@@ -23,7 +23,7 @@ line tool. The Chrome Extension provides a more user-friendly interface for
 reading reports. The command line tool enables you to integrate Lighthouse into
 continuous integration systems.
 
-### Chrome Extensions
+### Chrome extensions
 
 Download Google Chrome 52 or later.
 
