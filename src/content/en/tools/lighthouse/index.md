@@ -13,7 +13,7 @@ Lighthouse is an open-source, automated tool for improving the quality of
 your web apps. You can run it as a Chrome Extension or from the command line.
 You give Lighthouse a URL that you want to audit, it runs a barrage of tests
 against the page, and then it generates a report on how well the page did.
-From here you can use the failing tests as indicators on what you can do to
+From here you can use the failing tests as indicators of what you can do to
 improve your app.
 
 ## Get started
@@ -23,7 +23,7 @@ line tool. The Chrome Extension provides a more user-friendly interface for
 reading reports. The command line tool enables you to integrate Lighthouse into
 continuous integration systems.
 
-### Chrome extensions
+### Chrome Extensions
 
 Download Google Chrome 52 or later.
 
@@ -31,7 +31,7 @@ Install the [Lighthouse Chrome Extension](https://chrome.google.com/webstore/det
 
 Go to the page that you want to audit.
 
-Click on the Lighthouse icon (![Lighthouse 
+Click the Lighthouse icon (![Lighthouse 
 icon](images/lighthouse-icon-16.png)) that is on the Chrome toolbar.
 
 ![Lighthouse icon on Chrome Toolbar](images/icon-on-toolbar.png)
@@ -41,7 +41,7 @@ main menu.
 
 ![Lighthouse icon in Chrome's Menu](images/icon-in-menu.png)
 
-After clicking on the icon, you should see a menu.
+After clicking the icon, you should see a menu.
 
 ![Lighthouse menu](images/menu.png)
 
@@ -54,7 +54,7 @@ to confirm your changes.
 Click the **Generate report** button to run Lighthouse's tests against the
 currently-open page.
 
-When the audits are finished, Lighthouse opens up a new tab and displays a
+When the audits are finished, Lighthouse opens a new tab and displays a
 report on the page's results.
 
 ![Lighthouse report](images/report.png)
